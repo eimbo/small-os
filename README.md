@@ -1,11 +1,11 @@
 - Install make and nasm on Ubuntu
->> sudo apt install make nasm
+> sudo apt install make nasm
 
 - Start Make command from top level directory
->> make
+> make
 
 - VirtualBox has a command to create a .vdi from .img
->> VBoxManage convertdd main_floppy.img main.vdi
+> VBoxManage convertdd main_floppy.img main.vdi
 
 
 - Create new virtual box machine with Windows, do not create virtual hard disk. 
