@@ -1,3 +1,4 @@
+
 - Install make and nasm on Ubuntu
 > sudo apt install make nasm
 
@@ -11,3 +12,4 @@
 - Create new virtual box machine with Windows, do not create virtual hard disk. 
 - Add new virtual hard disk in Storage tab pointing to the .vdi
 
+- YT nanobyte - Building an OS - 1 - Hello world
